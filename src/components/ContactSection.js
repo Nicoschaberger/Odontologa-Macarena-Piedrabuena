@@ -138,7 +138,7 @@ const ContactSection = () => {
                 </div>
               </div>
               <div className="mt-8">
-                <h4 className="text-lg font-medium text-gray-800 mb-3">Síguenos</h4>
+                <h4 className="text-lg font-medium text-gray-800 mb-3">Seguinos</h4>
                 <div className="flex space-x-4">
                   <a 
                     href="https://www.instagram.com/od.macarena_piedrabuena?igsh=Mzlzd2pycXVjeXJy" 
