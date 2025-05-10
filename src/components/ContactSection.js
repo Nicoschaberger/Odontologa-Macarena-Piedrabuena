@@ -133,7 +133,7 @@ const ContactSection = () => {
                   <div className="flex-shrink-0 h-6 w-6 text-cyan-600">⏰</div>
                   <div className="ml-2">
                     <p className="text-gray-600">Lunes a Viernes: 9:00 - 18:00</p>
-                    <p className="text-gray-600">Sábados: 9:00 - 13:00</p>
+                    <p className="text-gray-600">Miercoles: 15:00 - 19:00 (Bella Italia)</p>
                   </div>
                 </div>
               </div>
