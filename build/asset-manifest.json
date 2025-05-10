@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/Odontologa-Macarena-Piedrabuena/static/js/main.408ed8f6.js",
+    "main.css": "/Odontologa-Macarena-Piedrabuena/static/css/main.d459afb1.css",
+    "main.js": "/Odontologa-Macarena-Piedrabuena/static/js/main.3316708b.js",
     "index.html": "/Odontologa-Macarena-Piedrabuena/index.html",
-    "main.408ed8f6.js.map": "/Odontologa-Macarena-Piedrabuena/static/js/main.408ed8f6.js.map"
+    "main.d459afb1.css.map": "/Odontologa-Macarena-Piedrabuena/static/css/main.d459afb1.css.map",
+    "main.3316708b.js.map": "/Odontologa-Macarena-Piedrabuena/static/js/main.3316708b.js.map"
   },
   "entrypoints": [
-    "static/js/main.408ed8f6.js"
+    "static/css/main.d459afb1.css",
+    "static/js/main.3316708b.js"
   ]
 }
